@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "ارشد کریانہ اسٹور - Arshad Kiryana Store",
+  "short_name": "Arshad Kiryana",
+  "description": "ہول سیل اور پرچون آن لائن آرڈر، کوٹ روڈ جھنگ / Wholesale & retail grocery ordering, Kot Road Jhang",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8ef",
+  "theme_color": "#e07a14",
+  "lang": "ur",
+  "dir": "rtl",
+  "categories": ["shopping", "food"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Admin Panel", "short_name": "Admin", "url": "./#/admin", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] },
+    { "name": "Cart / ٹوکری", "short_name": "Cart", "url": "./#/cart", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] }
+  ]
+}
